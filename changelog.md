@@ -17,4 +17,8 @@
 
 ## 24/06/23
 
-  - Probar distintos clasificadores sobre la base de datos MNIST
+  - Probar distintos clasificadores sobre la base de datos MNIST (no está acá)
+
+## 26/06/23
+
+  - Subir dataset artesanal
