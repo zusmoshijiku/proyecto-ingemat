@@ -22,3 +22,7 @@
 ## 26/06/23
 
   - Subir dataset artesanal
+
+## 27/06/23
+
+  - Guardar dataset artesanal en .csv
