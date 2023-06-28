@@ -26,3 +26,10 @@
 ## 27/06/23
 
   - Guardar dataset artesanal en .csv
+
+## 28/06/23
+
+  - Arreglar dataset artesanal (invertir color y aplicar autocontrast)
+  - testear datos arreglados
+  - mejorar red neuronal (más neuronas)
+  - cargar datos emnist (parcialmente)
